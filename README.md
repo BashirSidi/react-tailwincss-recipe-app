@@ -1,2 +1,2 @@
-# Booking overview
+# Recipe App (React - TailwinCSS)
 
